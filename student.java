@@ -188,9 +188,9 @@ public class student extends javax.swing.JFrame {
             
             
             JOptionPane.showMessageDialog(this, "Login success ");
-            teacher tech = new teacher();
-            this.hide();
-            tech.show();
+              teacher tech = new teacher();
+                this.hide();
+                tech.show();
             
             
         }
